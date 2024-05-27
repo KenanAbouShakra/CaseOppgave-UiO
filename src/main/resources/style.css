@@ -74,7 +74,7 @@ button:hover {
     .container,
     .quizContainer {
         max-width: 80%;
-        margin: 20px;
+        margin: 20px 0;
     }
 }
 
@@ -83,6 +83,6 @@ button:hover {
     .container,
     .quizContainer {
         max-width: 50%;
-        margin: 20px;
+        margin: 30px 0;
     }
 }
