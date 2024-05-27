@@ -1,4 +1,4 @@
-body {
+body {  /* Setter grunnleggende stil for hele siden */
     font-family: Arial, sans-serif;
     background-color: rgba(227, 226, 226, 0.7);
     display: flex;
@@ -6,7 +6,7 @@ body {
     align-items: center;
     height: 100vh;
 }
-.container, .quizContainer {
+.container, .quizContainer { /* Stil for containere */
     background: white;
     padding: 15px;
     border-radius: 5px;
@@ -17,7 +17,7 @@ h1 {
     text-align: center;
 }
 
-button {
+button { /* Stil for primary knapper */
     display: inline-block;
     padding: 10px 10px;
     margin: 20px;
