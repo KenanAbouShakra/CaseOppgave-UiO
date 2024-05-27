@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgba(227, 226, 226, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container, .quizContainer {
+    background: white;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    display: inline-block;
+    padding: 10px 10px;
+    margin: 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #0056b3;
+}
+
+.radio{
+    cursor: pointer;
+}
+
+.riktig {
+
+    color: green;
+}
+
+.galt {
+    color: red;
+}
