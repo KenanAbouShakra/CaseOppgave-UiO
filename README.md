@@ -1,3 +1,4 @@
-Kenan Abou Shakra
-CV: https://kenanaboushakra.github.io/CV/
+Kenan Abou Shakra,
+
+https://kenanaboushakra.github.io/CV/
 
